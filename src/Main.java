@@ -134,13 +134,5 @@ public class Main {
         //Replace least fittest individual from most fittest offspring
         population.individuals[leastFittestIndex] = getFittestOffspring();
     }
-
 }
-
-
-
-
-
-//Population class
-
 
